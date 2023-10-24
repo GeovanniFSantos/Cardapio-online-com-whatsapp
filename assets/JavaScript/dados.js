@@ -30,7 +30,7 @@ var MENU = {
         },
         {
             "id": "bacon-style-pizza-6-pack",
-            "img": "../assets/image/cardapio/pizzas/Bacon.jpg",
+            "img": "./assets/image/cardapio/pizzas/Bacon.jpg",
             "name": "Bacon (1 Sabor)",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
             "price": 30
@@ -193,7 +193,7 @@ var MENU = {
         },
         {
             "id": "file-pizza-4-pack",
-            "img": "./assets/image/cardapio/pizzas/file-molho-de-alho.jpg",
+            "img": "./assets/image/cardapio/pizzas/File-molho-de-alho.jpg",
             "name": "Filé ao Molho de Alho(P) (1 Sabor)",
             "dsc": " Pizza - 4 Pack",
             "price": 40
@@ -222,8 +222,8 @@ var MENU = {
             "price": 17.99
         },
         {
-            "id": "gotts-cheeseburger-kit-for-4",
-            "img": "./assets/image/cardapio/batatafrita/Batata-frita-cheddar.jpg",
+            "id": "gotts-batata-kit-for-4",
+            "img": "./assets/image/cardapio/batatafrita/Batata-frita-Cheddar.jpg",
             "name": "Batata C / Cheddar",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
             "price": 17.99
@@ -331,10 +331,10 @@ var MENU = {
             "price": 8
         },
         {
-            "id": "margarita-mix",
-            "img": "./assets/image/cardapio/bebidas/Antartica-1Lt.jpg",
+            "id": "antartica-mix",
+            "img": "./assets/image/cardapio/bebidas/antartica-1LT.jpg",
             "name": "Antárctica 1 Litro",
-            "dsc": "Margarita Mix",
+            "dsc": "Antárctica Mix",
             "price": 6
         }
     ]
